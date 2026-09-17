@@ -1,22 +1,10 @@
 {
-  "version": 1,
-  "updated_at": "2026-09-12T00:00:00Z",
-  "servers": [
-    {
-      "id": "mm-01",
-      "name": "Myanmar 01",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnJMcVI0NGZNZ2NrdjZhNEVkM29n@118.27.147.189:80"
-    }
-  ]
-}
-
-{
   "version": 2,
   "updated_at": "2026-09-12T00:00:00Z",
   "servers": [
     {
-      "id": "mm-01",
-      "name": "Myanmar 01",
+      "id": "p.m.o",
+      "name": "Phyo Min Oo",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnJMcVI0NGZNZ2NrdjZhNEVkM29n@118.27.147.189:80"
     }
   ]
