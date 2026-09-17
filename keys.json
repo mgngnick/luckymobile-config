@@ -1,12 +1,12 @@
 {
   "version": 1,
   "updated_at": "2026-09-12T00:00:00Z",
-  "announcement": "ဒီနေ့ ကျွန်တော် key အသစ် တင်ထားပါတယ်",
+  "announcement": "Lucky Mobileဖုန်းဆိုင်မှ Key အသစ်ထည့်ပေးထားပါသည်",
   "servers": [
     {
-      "id": "C.S.M",
-      "name": "Chaw Su Mon",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnJMcVI0NGZNZ2NrdjZhNEVkM29n@118.27.147.189:80"
+      "id": "S.P.Y",
+      "name": "Lucky Mobile",
+      "config_url": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443"
     }
   ]
 }
