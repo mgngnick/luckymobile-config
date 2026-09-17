@@ -1,10 +1,10 @@
 {
-  "version": 2,
+  "version": 3,
   "updated_at": "2026-09-12T00:00:00Z",
   "servers": [
     {
-      "id": "p.m.o",
-      "name": "Phyo Min Oo",
+      "id": "C.S.M",
+      "name": "Chaw Su Mon",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnJMcVI0NGZNZ2NrdjZhNEVkM29n@118.27.147.189:80"
     }
   ]
