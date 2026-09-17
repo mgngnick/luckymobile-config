@@ -1,6 +1,7 @@
 {
-  "version": 3,
+  "version": 1,
   "updated_at": "2026-09-12T00:00:00Z",
+  "announcement": "ဒီနေ့ ကျွန်တော် key အသစ် တင်ထားပါတယ်",
   "servers": [
     {
       "id": "C.S.M",
