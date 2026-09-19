@@ -1,12 +1,12 @@
 {
   "version": 1,
   "updated_at": "2026-09-12T00:00:00Z",
-  "announcement": "Lucky Mobileဖုန်းဆိုင်မှ Key အသစ်ထည့်ပေးထားပါသည်",
+  "announcement": "ယနေ့ အသစ်ထည့်ပေးထားပါသည်",
   "servers": [
     {
       "id": "S.P.Y",
-      "name": "Mg Phyo Min Oo",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080"
+      "name": " Mg Phyob",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnJMcVI0NGZNZ2NrdjZhNEVkM29n@118.27.147.189:80"
     }
   ]
 }
