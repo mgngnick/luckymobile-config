@@ -1,23 +1,16 @@
 {
-  "version": 1,
-  "updated_at": "2026-09-12T00:00:00Z",
-  "announcement": "  Update Today Key🗝️ ",
-  "servers": [
-    {
-      "id": "S.P.Y",
-      "name": " ငစံငယ် ",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdURiRGFCWmdBQzlZbTg4SkNoQ2hW@150.95.26.58:443"
-    }
-  ]
-}
-{
   "version": 2,
-  "updated_at": "2026-09-12T00:00:00Z",
-  "announcement": "  Update Today Key🗝️ ",
+  "updated_at": "2026-09-27T00:00:00Z",
+  "announcement": " Update Today Key🔑 ",
   "servers": [
     {
-      "id": "S.P.Y",
-      "name": " ငစံငယ် ",
+      "id": "S.P.Y_1",
+      "name": " ငယ်ငယ် 1 ",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdURiRGFCWmdBQzlZbTg4SkNoQ2hW@150.95.26.58:443"
+    },
+    {
+      "id": "S.P.Y_2",
+      "name": " ငယ်ငယ် 2 ",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0a2NTV0FSelVUWnpkRXB6SHlHTUFD@12.davika.asia:80"
     }
   ]
