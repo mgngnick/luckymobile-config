@@ -5,12 +5,12 @@
   "servers": [
     {
       "id": "S.P.Y_1",
-      "name": " ငစံငယ် 1 ",
+      "name": " Thailand ",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdURiRGFCWmdBQzlZbTg4SkNoQ2hW@150.95.26.58:443"
     },
     {
       "id": "S.P.Y_2",
-      "name": " ငစံငယ် 2 ",
+      "name": " Thailand ",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0a2NTV0FSelVUWnpkRXB6SHlHTUFD@12.davika.asia:80"
     }
   ]
