@@ -6,12 +6,16 @@
     {
       "id": "S.P.Y_1",
       "name": "Thailand",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdURiRGFCWmdBQzlZbTg4SkNoQ2hW@150.95.26.58:443"
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdURiRGFCWmdBQzlZbTg4SkNoQ2hW@150.95.26.58:443",
+      "bandwidth": "Gb - 0.00 / 40 GB",
+      "limit": "Limit - 1 Month"
     },
     {
       "id": "S.P.Y_2",
-      "name": "Thailand",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0a2NTV0FSelVUWnpkRXB6SHlHTUFD@12.davika.asia:80"
+      "name": "Myanmar",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0a2NTV0FSelVUWnpkRXB6SHlHTUFD@12.davika.asia:80",
+      "bandwidth": "Gb - 0.00 / 40 GB",
+      "limit": "Limit - 1 Month"
     }
   ]
 }
