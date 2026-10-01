@@ -27,7 +27,7 @@
     {
       "id": "S.P.Y_3",
       "name": "Singapore",
-      "config_url": "-spasm.quick-cdn.net:443?security=tls&fp=chrome&alpn=http%2F1.1&sni=ghosts-spasm.quick-cdn.net&type=ws&host=ghosts-spasm.quick-cdn.net&path=%2Fws",
+      "config_url": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.57:2096?&security=tls&fp=chrome&sni=free-server.techsonic.dev&type=ws&headerType=none&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev",
       "bandwidth": "Gb - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
     }
