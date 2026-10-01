@@ -1,7 +1,7 @@
 {
   "version":5,
   "updated_at": "2026-10-01T00:00:00Z",
-  "announcement": "free Update Keys လေး သုံးလို့ အဆင်ပြေကြပါစေ🔑",
+  "announcement": "free Update Keys 🔑",
   "servers": [
     {
       "id": "S.P.Y_1",
@@ -14,13 +14,6 @@
       "id": "S.P.Y_2",
       "name": "Myanmar",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0a2NTV0FSelVUWnpkRXB6SHlHTUFD@12.davika.asia:80",
-      "bandwidth": "Gb - 0.00 / 40 GB",
-      "limit": "Limit - 1 Month"
-    },
-    {
-      "id": "S.P.Y_3",
-      "name": "United States",
-      "config_url": "vless://ad19e43c-362d-42cb-9c2b-a6955cbc6af0@ghosts-spasm.quick-cdn.net:443?security=tls&fp=chrome&alpn=http%2F1.1&sni=ghosts-spasm.quick-cdn.net&type=ws&host=ghosts-spasm.quick-cdn.net&path=%2Fws",
       "bandwidth": "Gb - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
     },
