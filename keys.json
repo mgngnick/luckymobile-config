@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-01T00:00:00Z",
+  "updatedAt": "2026-10-02T00:00:00Z",
   "announcement": "free Update Keys 🔑",
   "servers": [
     {
@@ -18,7 +18,21 @@
       "limit": "Limit - 1 Month"
     },
     {
+      "id": "S.P.Y_3",
+      "name": "Myanmar",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqa01lNkpXdUE2MGJrRWRkdjJKYmJUKYmJU@47.130.194.57:25677",
+      "bandwidth": "Gb - 0.00 / 100 GB",
+      "limit": "Limit - 1 Month"
+    },
+    {
       "id": "S.P.Y_4",
+      "name": "Myanmar",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbzNOaHczU2dKZnprUk9QNnQNnFDcDJT@47.130.194.57:25677",
+      "bandwidth": "Gb - 0.00 / 100 GB",
+      "limit": "Limit - 1 Month"
+    },
+    {
+      "id": "S.P.Y_5",
       "name": "Singapore",
       "config_url": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.57:2096?security=tls&fp=chrome&sni=free-server.techsonic.dev&type=ws&headerType=none&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev#Singapore",
       "bandwidth": "Gb - 0.00 / 40 GB",
@@ -26,4 +40,3 @@
     }
   ]
 }
-
