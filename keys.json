@@ -9,6 +9,13 @@
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdURiRGFCWmdBQzlZbTg4SkNoQ2hW@150.95.26.58:443",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
+    },
+    {
+      "id": "S.P.Y_1",
+      "name": "Singapore",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbm8wZTJrZWppMmdzZmVh@1.khp25.com:1080",
+      "bandwidth": "0B - 0.00 / 40 GB",
+      "limit": "Limit - 1 Month"
     }
   ]
 }
