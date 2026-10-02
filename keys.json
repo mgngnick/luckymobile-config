@@ -9,27 +9,5 @@
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdURiRGFCWmdBQzlZbTg4SkNoQ2hW@150.95.26.58:443",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
-    },
-    {
-      "id": "S.P.Y_2",
-      "name": "Myanmar",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbzNOaHczU2dKZnprUk9QNnFDcDJT@47.130.194.57:25677",
-      "bandwidth": "0B - 0.00 / 40 GB",
-      "limit": "Limit - 1 Month"
-    },
-    {
-      "id": "S.P.Y_3",
-      "name": "Myanmar",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbzNOaHczU2dKZnprUk9QNnFDcDJT@47.130.194.57:25677",
-      "bandwidth": "0B - 0.00 / 40 GB",
-      "limit": "Limit - 1 Month"
-    },
-    {
-      "id": "S.P.Y_4",
-      "name": "Japanese",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSk1lNkpXdUE2MGJrRWRkdjJKYmJU@47.130.194.57:25677",
-      "bandwidth": "0B - 0.00 / 40 GB",
-      "limit": "Limit - 1 Month"
-    }
-  ]
+      ]
 }
