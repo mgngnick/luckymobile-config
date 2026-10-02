@@ -19,15 +19,15 @@
     },
     {
       "id": "S.P.Y_3",
-      "name": "United States",
-      "config_url": "vless://ad10e43c-262d-42cb-9c2b-a5955cbc6a10@ghosts-spasw.quick-cdn.net:443?security=tls&fp=chrome#United%20States",
+      "name": "Myanmar",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbzNOaHczU2dKZnprUk9QNnFDcDJT@47.130.194.57:25677",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
     },
     {
       "id": "S.P.Y_4",
       "name": "Japanese",
-      "config_url": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSk1lNkpXdUE2MGJrRWRkdjJKYmJU@47.130.194.57:25677",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
     }
