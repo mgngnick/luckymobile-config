@@ -1,6 +1,6 @@
 {
-  "version":5,
-  "updated_at": "2026-10-01T00:00:00Z",
+  "version": 5,
+  "updatedAt": "2026-10-01T00:00:00Z",
   "announcement": "free Update Keys 🔑",
   "servers": [
     {
@@ -34,9 +34,10 @@
     {
       "id": "S.P.Y_4",
       "name": "Singapore",
-      "config_url": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.57:2096?&security=tls&fp=chrome&sni=free-server.techsonic.dev&type=ws&headerType=none&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev",
+      "config_url": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.57:2096?security=tls&fp=chrome&sni=free-server.techsonic.dev&type=ws&headerType=none&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev#Singapore",
       "bandwidth": "Gb - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
     }
   ]
 }
+
