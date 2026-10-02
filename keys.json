@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-01T00:00:00Z",
+  "updatedAt": "2026-10-02T13:30:00Z",
   "announcement": "free Update keys လေး တင်ထားပါတယ်🔑",
   "servers": [
     {
@@ -9,5 +9,6 @@
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdURiRGFCWmdBQzlZbTg4SkNoQ2hW@150.95.26.58:443",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
-      ]
+    }
+  ]
 }
