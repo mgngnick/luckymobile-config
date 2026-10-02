@@ -11,6 +11,21 @@
       "limit": "Limit - 1 Month"
     },
     {
+      "id": "S.P.Y_1",
+      "name": "Myanmar",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbzNOaHczU2dKZnprUk9QNnFDcDJT@47.130.194.57:25677",
+      "bandwidth": "Gb - 0.00 / 100 GB",
+      "limit": "Limit - 1 Month"
+    },
+    {
+      "id": "S.P.Y_1",
+      "name": "Myanmar",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSk1lNkpXdUE2MGJrRWRkdjJKYmJU@47.130.194.57:25677
+      ",
+      "bandwidth": "Gb - 0.00 / 100 GB",
+      "limit": "Limit - 1 Month"
+    },
+    {
       "id": "S.P.Y_2",
       "name": "Myanmar",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0a2NTV0FSelVUWnpkRXB6SHlHTUFD@12.davika.asia:80",
