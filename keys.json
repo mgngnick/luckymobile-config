@@ -26,8 +26,8 @@
     },
     {
       "id": "S.P.Y_4",
-      "name": "Singapore",
-      "config_url": "vless://6e90d5c5-7aa3-4c36-adt4-a4b69525e4d2@91.192.58.57:20957?security=tls&fp=chrome&sni=free-us...",
+      "name": "Japanese",
+      "config_url": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
     }
