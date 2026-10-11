@@ -10,11 +10,12 @@
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
     },
-{
-      "id": "S.P.Y_1",
+    {
+      "id": "S.P.Y_2",
       "name": "Myanmar",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSHNDMWVITGRnM2lXZlNhb1QzWGEx@hr05.juejue.shop:443",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
+    }
   ]
 }
