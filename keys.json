@@ -1,31 +1,24 @@
 {
   "version": 5,
   "updatedAt": "2026-10-02T13:30:00Z",
-  "announcement": "Brazil key ချိန်းပီး သုံးကြပါ",
+  "announcement": "Singapore Server ထည့်ထားပါတယ်",
   "servers": [
     {
       "id": "S.P.Y_1",
-      "name": "Thailand",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdURiRGFCWmdBQzlZbTg4SkNoQ2hW@150.95.26.58:443",
-      "bandwidth": "0B - 0.00 / 40 GB",
-      "limit": "Limit - 1 Month"
-    },
-    {
-      "id": "S.P.Y_2",
       "name": "Myanmar",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSHNDMWVITGRnM2lXZlNhb1QzWGEx@hr05.juejue.shop:443",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
     },
 {
-      "id": "S.P.Y_3",
+      "id": "S.P.Y_2",
       "name": "Brazil",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y1ZLYkZMZGl1YVA0Vk9MSmlTcHE1@168.231.94.25:44422",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
     },
 {
-      "id": "S.P.Y_4",
+      "id": "S.P.Y_3",
       "name": "Singapore",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQc0I1eDVHVkZzNno2Z2EzSjZhb2Yw@18.140.163.191:36180",
       "bandwidth": "0B - 0.00 / 40 GB",
