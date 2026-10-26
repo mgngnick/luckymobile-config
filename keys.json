@@ -1,7 +1,7 @@
 {
   "version": 5,
   "updatedAt": "2026-10-02T13:30:00Z",
-  "announcement": "Singapore Server ထည့်ထားပါတယ်",
+  "announcement": "Server update လုပ်နေပါတယ်",
   "servers": [
     {
       "id": "S.P.Y_1",
@@ -16,13 +16,7 @@
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y1ZLYkZMZGl1YVA0Vk9MSmlTcHE1@168.231.94.25:44422",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
-    },
-{
-      "id": "S.P.Y_3",
-      "name": "Singapore",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQc0I1eDVHVkZzNno2Z2EzSjZhb2Yw@18.140.163.191:36180",
-      "bandwidth": "0B - 0.00 / 40 GB",
-      "limit": "Limit - 1 Month"
+
     }
   ]
 }
