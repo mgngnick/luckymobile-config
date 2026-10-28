@@ -17,6 +17,14 @@
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
 
+    },
+{
+      "id": "S.P.Y_3",
+      "name": "Singapore",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0enZ4ek9PS1Rwald2eWNGTno2NVZp@157.245.54.105:18244",
+      "bandwidth": "0B - 0.00 / 40 GB",
+      "limit": "Limit - 1 Month"
+
     }
   ]
 }
