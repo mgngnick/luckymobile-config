@@ -1,7 +1,7 @@
 {
   "version": 5,
   "updatedAt": "2026-10-02T13:30:00Z",
-  "announcement": "Singapore server ချိန်းသုံးပါ",
+  "announcement": "Thailand server ချိန်းသုံးပါ",
   "servers": [
     {
       "id": "S.P.Y_1",
@@ -20,11 +20,12 @@
     },
 {
       "id": "S.P.Y_3",
-      "name": "Singapore",
+      "name": "Thailand",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0enZ4ek9PS1Rwald2eWNGTno2NVZp@157.245.54.105:18244",
-      "bandwidth": "0B - 0.00 / 40 GB",
+      "bandwidth": "0B - 0.00 / 50 GB",
       "limit": "Limit - 1 Month"
 
     }
+
   ]
 }
