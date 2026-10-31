@@ -25,6 +25,14 @@
       "bandwidth": "0B - 0.00 / 50 GB",
       "limit": "Limit - 1 Month"
 
+    },
+{
+      "id": "S.P.Y_5",
+      "name": "United States",
+      "config_url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999",
+      "bandwidth": "0B - 0.00 / 50 GB",
+      "limit": "Limit - 1 Month"
+
     }
   ]
 }
