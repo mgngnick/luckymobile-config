@@ -1,7 +1,7 @@
 {
   "version": 5,
   "updatedAt": "2026-10-02T13:30:00Z",
-  "announcement": " Singapore Serverချိန်းပါ",
+  "announcement": " ချိတ်မရရင် Serverချိန်းပါ",
   "servers": [
     {
       "id": "S.P.Y_1",
@@ -38,6 +38,14 @@
       "id": "S.P.Y_5",
       "name": "Singapore",
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQlBGMEN2aHBEN1JyQ05PV2IzMGhoOGJzYVozTjhZU2ZreEhzc1Vja3RZPQ@nuvora222.masterdpibypass.com:40774",
+      "bandwidth": "0B - 0.00 / 50 GB",
+      "limit": "Limit - 1 Month"
+
+    },
+{
+      "id": "S.P.Y_6",
+      "name": "Japan",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuTXo5ODdIa2xHWG5uSjgyTUtISGUw@201.18.207.246:39463",
       "bandwidth": "0B - 0.00 / 50 GB",
       "limit": "Limit - 1 Month"
 
