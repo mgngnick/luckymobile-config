@@ -16,6 +16,12 @@
       "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpON2xaZU9tTmlqeXFBZGVlRWZEelFa@91.192.81.157:45609",
       "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
-    }
+    },
+{
+      "id": "S.P.Y_3",
+      "name": "Myanmar",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovMHFueWUvNnZhSTB4aDNRWXJSUndpTDhqZUNydFZqa0l1ZGx0eXpFRlpvPQ@83.147.234.140:19765",
+      "bandwidth": "0B - 0.00 / 40 GB",
+      "limit": "Limit - 1 Month"
   ]
 }
