@@ -1,61 +1,14 @@
 {
   "version": 5,
   "updatedAt": "2026-10-02T13:30:00Z",
-  "announcement": "Serverတိုးပေးထားပါတယ်",
+  "announcement": "Serverပြုပြင်ထားပါသည်",
   "servers": [
     {
       "id": "S.P.Y_1",
-      "name": "Myanmar",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSHNDMWVITGRnM2lXZlNhb1QzWGEx@hr05.juejue.shop:443",
-      "bandwidth": "0B - 0.00 / 40 GB",
-      "limit": "Limit - 1 Month"
-    },
-{
-      "id": "S.P.Y_2",
-      "name": "Japan",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZGZkMmY2MTFjYTU0MjljOTUwMWJkZmE1MTg2ZWE0Nw==@jp-telegram-khp25-viber-09773510813.premiumx.giize.com:1080",
-      "bandwidth": "0B - 0.00 / 40 GB",
-      "limit": "Limit - 1 Month"
-
-    },
-{
-      "id": "S.P.Y_3",
-      "name": "Thailand",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0enZ4ek9PS1Rwald2eWNGTno2NVZp@157.245.54.105:18244",
-      "bandwidth": "0B - 0.00 / 50 GB",
-      "limit": "Limit - 1 Month"
-
-    },
-{
-      "id": "S.P.Y_4",
       "name": "United States",
-      "config_url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999",
-      "bandwidth": "0B - 0.00 / 50 GB",
+      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIQ0ZxUjVCMTcwOXBUUk11ZzZLYzVt@91.192.81.157:45609",
+      "bandwidth": "0B - 0.00 / 40 GB",
       "limit": "Limit - 1 Month"
-
-    },
-{
-      "id": "S.P.Y_5",
-      "name": "Singapore",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQlBGMEN2aHBEN1JyQ05PV2IzMGhoOGJzYVozTjhZU2ZreEhzc1Vja3RZPQ@nuvora222.masterdpibypass.com:40774",
-      "bandwidth": "0B - 0.00 / 50 GB",
-      "limit": "Limit - 1 Month"
-
-    },
-{
-      "id": "S.P.Y_6",
-      "name": "Japan",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuTXo5ODdIa2xHWG5uSjgyTUtISGUw@201.18.207.246:39463",
-      "bandwidth": "0B - 0.00 / 50 GB",
-      "limit": "Limit - 1 Month"
-
-    },
-{
-      "id": "S.P.Y_7",
-      "name": "Singapore",
-      "config_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmMwODUzNjIzNjI0Yzk0YmZlYjY1Y2RiNTg1OGRjOA==@sg-telegram-khp25-viber-09773510813.premiumx.giize.com:1080",
-      "bandwidth": "0B - 0.00 / 50 GB",
-      "limit": "Limit - 1 Month"
-}
+    }
   ]
 }
